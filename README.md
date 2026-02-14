@@ -9,6 +9,11 @@ I am from **Rajkot, Gujarat**. I have completed my **Diploma in Computer Enginee
 * 🌱 I’m currently learning **Advanced Android Development & DSA.**
 * 🎯 My long-term goal is to **start my own business.**
 * 📫 How to reach me: **parthjgondaliya86@gmail.com**
+* <p align="center">
+  <a href="Resume_2026_2.0.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download_Resume-FF0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download Resume" />
+  </a>
+</p>
 
 ---
 
